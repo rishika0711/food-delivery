@@ -33,3 +33,4 @@ app.listen(port, () => console.log(`Server running on port ${port}`));
 
 //  await mongoose.connect('mongodb+srv://rishikasingh0711:rishikasingh0711@cluster0.edkyl.mongodb.net/Food Delivery').then(()=>{console.log("Database connected!")});
 
+ 
